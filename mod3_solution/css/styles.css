@@ -1,0 +1,53 @@
+/************ modual 3 - SOLUTION ******************/
+body {
+  font-size: 20px;
+  color: #000000;
+  background-color: white;
+  font-family: 'Concert One', cursive;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #bfbfbf;
+  border-radius: 0;
+  border-color: #000000;
+  border-width: 2px 0px 2px 0px;
+}
+.navbar-brand {
+  padding-top: 25px;
+  padding-bottom: 50px;
+  margin-bottom: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Concert One', cursive;;
+  color: #000000;
+  font-size: 3em;
+  margin-top: 0;
+  margin-bottom: 800;
+  line-height: .75;
+ }
+#nav-list  ul li{
+  background-color: white;
+  border-color: black;
+  text-align: center;
+  color: #000000;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #000000;
+    font-family: 'Concert One', cursive;
+  }
+h2{
+  padding-top: 5px;
+  background-color: #bfbfbf;
+  color: #000000;
+  text-align: center;
+  }
+
+#para {
+
+  padding: 0 7px 2px 7px;
+  background-color: #bfbfbf;
+  color: #000000;
+}
