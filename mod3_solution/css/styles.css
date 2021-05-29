@@ -26,10 +26,10 @@ body {
   margin-bottom: 800;
   line-height: .75;
  }
-#nav-list  ul li{
+#list {
+  text-align: center;
   background-color: white;
   border-color: black;
-  text-align: center;
   color: #000000;
 }
 h1{
