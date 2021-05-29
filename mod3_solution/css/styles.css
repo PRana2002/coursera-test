@@ -18,7 +18,7 @@ body {
   padding-bottom: 50px;
   margin-bottom: 25px;
 }
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 { 
   font-family: 'Concert One', cursive;;
   color: #000000;
   font-size: 3em;
