@@ -5,7 +5,6 @@
 // See Lecture 52, part 2
 (function(window){
 
-
 // STEP 7: Create an object, called 'byeSpeaker' to which you will attach
 // the "speak" method and which you will expose to the global context
 // See Lecture 52, part 1
